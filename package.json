@@ -34,7 +34,7 @@
     "koa-router": "^7.4.0",
     "koa-static": "^4.0.3",
     "koa2-swagger-ui": "^2.9.5",
-    "lodash": "^4.17.10"
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
     "@types/bunyan": "^1.8.4",
